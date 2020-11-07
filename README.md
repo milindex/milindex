@@ -1,5 +1,5 @@
 <div id="container">
-  <img align="right" alt="Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work" width="800" src="https://github.com/milindex/milindex/blob/main/bio.gif" />
+  <img align="center" alt="Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work" width="800" src="https://github.com/milindex/milindex/blob/main/bio.gif" />
 </div>
 
 <a href="https://twitter.com/milinded" target="_blank" rel="nofollow"><img align="right" alt="Milind's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/milindks/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/milindex" target="_blank" rel="nofollow"><img align="right" alt="Milind's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
@@ -15,12 +15,7 @@ I am actively looking for opportunities in Web Development. Also, if I get enoug
 - 🌐 Visit my [porfolio website](https://milindsonawane.in) for complete background and contact.
 - 👋 My personal [blog site](https://milindsonawane.in/blogs)
 
-#container {
-    height:100px;
-    line-height:100px;
-}
-
 #container img {
-    vertical-align:middle;
-    max-height:100%;
+	vertical-align:middle;
+	max-height:100%;
 }
