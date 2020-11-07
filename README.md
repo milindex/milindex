@@ -1,6 +1,6 @@
 ![Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work](https://github.com/milindex/milindex/blob/main/bio.gif)
 
-<img align="center" style="text-align:center;" alt="Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work" width="800px" src="https://github.com/milindex/milindex/blob/main/bio.gif" />
+<img align="center" style=" display: block; margin-left: auto; margin-right: auto; width: 90%;" alt="Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work" width="800px" src="https://github.com/milindex/milindex/blob/main/bio.gif" />
 
 <a href="https://twitter.com/milinded" target="_blank" rel="nofollow"><img align="right" alt="Milind's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/milindks/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/milindex" target="_blank" rel="nofollow"><img align="right" alt="Milind's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
