@@ -15,7 +15,13 @@ I am actively looking for opportunities in Web Development. Also, if I get enoug
 - 🌐 Visit my [porfolio website](https://milindsonawane.in) for complete background and contact.
 - 👋 My personal [blog site](https://milindsonawane.in/blogs)
 
+#container {
+	display: block;
+}
+
 #container img {
 	vertical-align:middle;
 	max-height:100%;
+	width: 100%
+	margin: 0 auto;
 }
