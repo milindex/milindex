@@ -1,4 +1,4 @@
-![Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work](https://github.com/milindex/milindex/raw/master/bio.gif)
+![Hey there, I'm Milind. I'm a Web Developer, a maker and infosec enthusiast. Check out my work](https://github.com/milindex/milindex/blob/main/bio.gif?raw=true)
 
 ### Hi there 👋
 
