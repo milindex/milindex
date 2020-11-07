@@ -2,7 +2,7 @@
 
 Hi, I'm [Milind Sonawane](https://milindsonawane.in/)
 
-A Full Stack Developer(Jr.) 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️, FreeLance 👨🏽‍💼 and a Former Semi-Pro CSGO Player. Beside's programming, I enjoy eating playing pubg and cricket(on playground ofcourse).
+A Full Stack Developer(Jr.) 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️, FreeLance 👨🏽‍💼 and a Former Semi-Pro CSGO Player. Beside's programming, I enjoy eating, playing pubg and cricket(on playground ofcourse).
 
 <img align="right" alt="GIF" src="assets/code.gif?raw=true" width="500" height="320" />
 
@@ -13,7 +13,7 @@ A Full Stack Developer(Jr.) 🚀 from India, currently, I'm a Project Collaborat
 - 👨🏽‍💻 I’m currently working on Multiple Projects at [KraftPixel](https://kraftpixel.com) :wink:;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Also, I'm looking for a better opportunity;
-- 📫 How to reach me: [email](mailto:milind4j@gmail.com);
+- 📫 How to reach me: [@ClickHere](mailto:milind4j@gmail.com);
 - 📝[Resume](https://drive.google.com/file/d/1e96xEbGqy8H_GwXnJdcgiws5r9ie9a0K/view)
 
 <!-- **Languages and Tools:**   -->
