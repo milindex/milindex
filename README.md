@@ -7,4 +7,4 @@
 - 👋 My personal [blog site](https://milindsonawane.in/blogs) -->
 
 ## Programming Languages I Know
-<p align=center><img src="assets/amp.svg" width=7%><img src="assets/css3.svg" width=7%><img src="assets/html5.svg" width=7%><img src="assets/jquery.svg" width=7%><img src="assets/nodejs.svg" width=7%><img src="assets/php.svg" width=7%><img src="assets/sass.svg" width=7%><img src="assets/vuejs.svg" width=7%><img src="assets/wordpress.svg" width=7%></p>
+<p align=center><img src="assets/amp.svg" width="59px" height="59px"><img src="assets/css3.svg" width="59px" height="59px"><img src="assets/html5.svg" width="59px" height="59px"><img src="assets/jquery.svg" width="59px" height="59px"><img src="assets/nodejs.svg" width="59px" height="59px"><img src="assets/php.svg" width="59px" height="59px"><img src="assets/sass.svg" width="59px" height="59px"><img src="assets/vuejs.svg" width="59px" height="59px"><img src="assets/wordpress.svg" width="59px" height="59px"></p>
