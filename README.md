@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Milind Sonawane](https://blog.milindsonawane.in/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️, FreeLance 👨🏽‍💼[Linkedin](https://www.linkedin.com/in/milindks/) and a Former Semi-Pro CSGO Player. Beside's programming, I enjoy eating playing pubg and cricket(on playground ofcourse).
+Hi, I'm [Milind Sonawane](https://milindsonawane.in/)
+
+A Full Stack Developer(Jr.) 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️, FreeLance 👨🏽‍💼 and a Former Semi-Pro CSGO Player. Beside's programming, I enjoy eating playing pubg and cricket(on playground ofcourse).
 
 <img align="right" alt="GIF" src="assets/code.gif?raw=true" width="500" height="320" />
 
