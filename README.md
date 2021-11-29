@@ -14,7 +14,7 @@ A Full Stack Developer(Jr.) 🚀 from India, currently, I'm a Project Collaborat
 - 🌱 I’m currently learning Flutter; 
 - 💬 Also, I'm looking for a better opportunity;
 - 📫 How to reach me: [@ClickHere](mailto:milind4j@gmail.com);
-- 📝[Resume](https://drive.google.com/file/d/1e96xEbGqy8H_GwXnJdcgiws5r9ie9a0K/view)
+- 📝[Resume](https://drive.google.com/file/d/1X-v2HnDp11A-XacCAg3yyRhLEIRQnrgO/view)
 
 <!-- **Languages and Tools:**   -->
 
