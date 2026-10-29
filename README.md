@@ -126,7 +126,3 @@ I'm open to senior engineering roles, consulting, contract work, and select free
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/milindks)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/magic2k/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:connect@milinds.dev)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=milindex&label=Profile%20views&color=0f172a&style=flat-square" alt="Profile views" />
-</div>
